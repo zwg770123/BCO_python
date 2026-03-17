@@ -12,9 +12,9 @@ You can download the main paper here (Open access): https://www.sciencedirect.co
 
 The main contributions of this study are:
 
-    1. This study presents a comprehensive collection of 312 metaheuristic algorithms, drawing on contributions from multiple research teams. Analyzing this extensive set uncovers non-uniform evolutionary patterns within the field, which offers readers a complete overview and motivates the development of new mathematical algorithms.
+1.  This study presents a comprehensive collection of 312 metaheuristic algorithms, drawing on contributions from multiple research teams. Analyzing this extensive set uncovers non-uniform evolutionary patterns within the field, which offers readers a complete overview and motivates the development of new mathematical algorithms.
 
-    2. A new metaheuristic called BCO is proposed, inspired by the mathematical principles of Bezier curve theory. The optimization process is guided by Bezier curves of different orders, and an adaptive balance factor is introduced to dynamically maintain the trade-off between exploration and exploitation.
+2.  A new metaheuristic called BCO is proposed, inspired by the mathematical principles of Bezier curve theory. The optimization process is guided by Bezier curves of different orders, and an adaptive balance factor is introduced to dynamically maintain the trade-off between exploration and exploitation.
 
    3. Three curve-based operators are designed, including the linear Bezier curve to enhance exploitation, the quadratic Bezier curve to avoid local optima, and the cubic Bezier curve to boost exploration. These operators work in conjunction with the adaptive balance factor to improve search performance.
 
