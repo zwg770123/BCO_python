@@ -7,11 +7,11 @@ Bezier curve-based optimization (BCO) is new optimizer which draws inspiration f
 
 ![image](bco_image.png)
 
-Main paper (Open access): Zhao, W., Xie Y., Wang, L., Zhang. Z., Khodadadi, N., Mirjalili, S. (2026). An effective Bezier curve-based optimization (BCO) for large-scale numerical problems and 3D unmanned aerial vehicle path  planning with efficient multiple threats evasion, Advanced Engineering Informatics, 73, 104524. https://doi.org/10.1016/j.aei.2026.104524. 
+📄Main paper (Open access): Zhao, W., Xie Y., Wang, L., Zhang. Z., Khodadadi, N., Mirjalili, S. (2026). An effective Bezier curve-based optimization (BCO) for large-scale numerical problems and 3D unmanned aerial vehicle path  planning with efficient multiple threats evasion, Advanced Engineering Informatics, 73, 104524. https://doi.org/10.1016/j.aei.2026.104524. 
 
-[![Download](https://img.shields.io/badge/-Download%20BCO%20Python-blue?logo=download&logoColor=white)] You can download the main paper here (Open access): https://www.sciencedirect.com/science/article/pii/S1474034626002168
+📥You can download the main paper here (Open access): https://www.sciencedirect.com/science/article/pii/S1474034626002168
 
-The main contributions of this study are:
+📝The main contributions of this study are:
 
 1.  This study presents a comprehensive collection of 312 metaheuristic algorithms, drawing on contributions from multiple research teams. Analyzing this extensive set uncovers non-uniform evolutionary patterns within the field, which offers readers a complete overview and motivates the development of new mathematical algorithms.
 
