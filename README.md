@@ -21,5 +21,3 @@ The main contributions of this study are:
    4. BCO is evaluated on different benchmark functions and compared against 27 high-quality algorithms, including 6 well-known, 8 cutting-edge, 8 hybrid, and 5 CEC champion algorithms.
 
    5. The practical utility of BCO is validated through its successful application to 3D UAV path planning in eight terrain scenarios from two perspectives, with efficient evasion of multiple threats.
-
-
