@@ -1,4 +1,5 @@
-## Bezier Curve-based Optimization (BCO)
+## Bezier Curve-based Optimization (BCO) (python)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 
 Bezier curve-based optimization (BCO) is new optimizer which draws inspiration from Bezier curve theory. Drawing upon the geometric properties of different-order Bezier curves, BCO employs the linear Bezier curve to achieve exploitation, the quadratic Bezier curve to facilitate local optima avoidance, and the cubic Bezier curve to implement exploration. The algorithm is simple and easy to implement.
 
